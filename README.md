@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Brian Peinado</h1>
 <h2>👀 Software Engineer </h2>
-📖 Currently a student at Georgia Tech and University of Texas at El Paso<br><br> 
+📖 Currently a student at Georgia Tech<br><br> 
 <div>
    You can find some of my live projects at <a href="https://brianpeinado.com/">https://brianpeinado.com/</a><br><br> 
 </div>
